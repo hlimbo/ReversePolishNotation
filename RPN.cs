@@ -1,4 +1,8 @@
-﻿using System;
+//Author hlimbo
+//Date 9-10-15
+//Language C-Sharp
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
